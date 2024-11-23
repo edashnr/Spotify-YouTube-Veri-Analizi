@@ -68,3 +68,5 @@ Spotify ve YouTube'dan alınan veriler, şarkıların ve videoların özellikler
 
 - Model ve analiz sonuçları, kullanılan veri setine ve işleme tekniklerine bağlıdır. Yeni verilerle sonuçlar değişebilir.
 - Her analiz çalıştırıldığında küçük farklar gözlenebilir, çünkü bazı işlemler rastgelelik içerebilir.
+
+**Kaggle Linki:**  [Spotify vs YouTube - Kaggle Çalışması](https://www.kaggle.com/code/edashnr/spotify-vs-youtube)
