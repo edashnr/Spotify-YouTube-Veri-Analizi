@@ -1,7 +1,7 @@
 # SPOTIFY vs YOUTUBE Veri Analizi
 Spotify &amp; YouTube Keşifsel Veri Analizi ve Sınıflama Modeli
 
-![](images/resim_adi.png)
+![](if_spotify_then_youtube.png)
 
 Bu proje, Spotify ve YouTube platformlarına ait verileri analiz ederek bu platformlar arasındaki farkları ve benzerlikleri incelemeyi amaçlamaktadır. Python kullanılarak yapılan veri analizi ve görselleştirme çalışmalarıyla çeşitli içgörüler elde edilmiştir.
 
